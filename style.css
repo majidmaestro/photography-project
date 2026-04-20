@@ -27,20 +27,20 @@ header h1 {
     border-radius: 50%;
     
 }
-/* nav { */
-    /* background-color: red; */
-    /* color: #fff; */
-    /* padding: 12px 0; */
-    /* text-align: center; */
-/* } */
-/* nav a { */
-    /* color: #fff; */
-    /* text-decoration: none; */
-    /* margin: 0 15px; */
-    /* font-size: 18px; */
-    /* font-weight: 600; */
-    /* letter-spacing: 0.5px; */
-/* } */
+nav {
+    background-color: red;
+    color: #fff;
+    padding: 12px 0;
+    text-align: center;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
 nav a:hover {
     color: yellow;
     text-decoration: underline;
