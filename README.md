@@ -9,6 +9,6 @@ Abdulmajid Abdullahi
 - simply click the Github pages link to view the live project
   ## link to live site on GitHub Pages
    - https://majidmaestro.github.io/photography-project/ 
-   copyright and license information
+   ## copyright and license information
    - ©2026 Abdulmajid Abdullahi. All rights reserved
 NOTE: all images and trademarks related to F1 teams are the property of their respective owners and are used here for educational/ illustrative purposes.
