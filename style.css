@@ -22,6 +22,9 @@ header h1 {
   margin: 0;
   font-size: 36px;
 }
+header h2 {
+  color: black;
+}
 .logo {
   width: 90px;
   height: 90px;
