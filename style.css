@@ -66,6 +66,9 @@ section {
   transition: box-shadow 0.3s ease;
   color: white;
 }
+section h2 {
+  color: black
+}
 section:hover {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
